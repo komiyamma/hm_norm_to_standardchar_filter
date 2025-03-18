@@ -1,4 +1,4 @@
-# 秀丸フィルター NormToStandardChar
+# 秀丸変換モジュール NormToStandardChar
 
 ![NormToStandardChar v1.0.1](https://img.shields.io/badge/NormToStandardChar-v1.0.1-6479ff.svg)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
