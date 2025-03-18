@@ -73,17 +73,17 @@ public class NormToStandardCharLib
         }
 
         var textNFC = text.Normalize(System.Text.NormalizationForm.FormC);
-        /*
-        if (CanConvertSJIS(textNFC))
-        {
-            return textNFC;
-        }
-        */
         if (text != textNFC)
         {
             return textNFC;
         }
 
-        return text.Normalize(System.Text.NormalizationForm.FormKC);
+        var textNFKC = text.Normalize(System.Text.NormalizationForm.FormKC);
+        if (textNFKC.Length <= text.Length)
+        {
+            return textNFKC;
+        }
+
+        return text;
     }
 }

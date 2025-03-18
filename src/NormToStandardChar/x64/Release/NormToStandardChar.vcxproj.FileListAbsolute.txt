@@ -1,0 +1,1 @@
+G:\repogitory\hm_norm_to_standardchar_filter\src\NormToStandardChar\x64\Release\NormToStandardChar.vcxproj.AssemblyReference.cache

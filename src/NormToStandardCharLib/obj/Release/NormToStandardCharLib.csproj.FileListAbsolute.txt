@@ -4,3 +4,9 @@ C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\obj\Releas
 C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\obj\Release\NormToStandardCharLib.csproj.CoreCompileInputs.cache
 C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\obj\Release\NormToStandardCharLib.netmodule
 C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\obj\Release\NormToStandardCharLib.pdb
+G:\repogitory\hm_norm_to_standardchar_filter\src\NormToStandardCharLib\bin\Release\NormToStandardCharLib.netmodule
+G:\repogitory\hm_norm_to_standardchar_filter\src\NormToStandardCharLib\bin\Release\NormToStandardCharLib.pdb
+G:\repogitory\hm_norm_to_standardchar_filter\src\NormToStandardCharLib\obj\Release\NormToStandardCharLib.csproj.AssemblyReference.cache
+G:\repogitory\hm_norm_to_standardchar_filter\src\NormToStandardCharLib\obj\Release\NormToStandardCharLib.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_norm_to_standardchar_filter\src\NormToStandardCharLib\obj\Release\NormToStandardCharLib.netmodule
+G:\repogitory\hm_norm_to_standardchar_filter\src\NormToStandardCharLib\obj\Release\NormToStandardCharLib.pdb

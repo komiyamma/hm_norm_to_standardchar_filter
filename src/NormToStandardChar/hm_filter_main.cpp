@@ -42,7 +42,7 @@ HIDEMARUFILTERINFO* EnumHidemaruFilter() {
 //---------------------------------------------------------------------------------------------------
 MACRO_DLL
 DWORD HidemaruFilterGetVersion() {
-	double version = 1.01;
+	double version = 1.02;
 	return double_ver_to_hm_filter_ver(version);
 }
 
