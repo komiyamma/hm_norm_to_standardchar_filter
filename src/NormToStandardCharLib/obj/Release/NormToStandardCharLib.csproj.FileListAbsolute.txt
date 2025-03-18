@@ -1,0 +1,6 @@
+C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\bin\Release\NormToStandardCharLib.netmodule
+C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\bin\Release\NormToStandardCharLib.pdb
+C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\obj\Release\NormToStandardCharLib.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\obj\Release\NormToStandardCharLib.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\obj\Release\NormToStandardCharLib.netmodule
+C:\Users\master\source\repos\NormToStandardChar\NormToStandardCharLib\obj\Release\NormToStandardCharLib.pdb
