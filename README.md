@@ -5,3 +5,5 @@
 
 いい感じで Unicode正規化をする変換モジュール(filter)
 カスタム性に欠けるがかなり高速。
+
+https://秀丸マクロ.net/?page=nobu_tool_hm_norm_to_standardchar_filter
