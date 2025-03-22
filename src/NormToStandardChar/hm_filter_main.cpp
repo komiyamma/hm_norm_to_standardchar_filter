@@ -42,7 +42,7 @@ HIDEMARUFILTERINFO* EnumHidemaruFilter() {
 //---------------------------------------------------------------------------------------------------
 MACRO_DLL
 DWORD HidemaruFilterGetVersion() {
-	double version = 1.02;
+	double version = 1.03;
 	return double_ver_to_hm_filter_ver(version);
 }
 
@@ -98,8 +98,11 @@ MACRO_DLL HGLOBAL NormToStandardChar( HWND hwndHidemaru, const wchar_t *pwszIn, 
 
 	// ロック
 	wchar_t* pwchDest = (wchar_t*)GlobalLock(hmemDst);
-	// コピペ
-	wcscpy(pwchDest, wch);
+
+	if (pwchDest) {
+		// コピペ
+		memcpy(pwchDest, wch, cb);
+	}
 	// アンロック
 	GlobalUnlock(pwchDest);
 	return pwchDest;
